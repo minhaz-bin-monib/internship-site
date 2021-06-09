@@ -37,17 +37,17 @@
 #card-1{
     margin-right: 69px;
     width: 270px;
-    margin-left: 139px;
+    margin-left: 0px;
 }
 #card-2{
-    margin-right: 179px;
+    margin-right: 0px;
     width: 270px;
-    margin-left: 74px;
+    margin-left: 0px;
 }
 #card-3{
     margin-right: 3px;
     width: 270px;
-    margin-left: -18px;
+    margin-left: 0px;
 }
 
 .decoration:hover{
@@ -74,7 +74,7 @@
     width: 50px;
 } */
 .mini{
-    margin-left: 350px;
+    margin-left: 0px;
 }
 /* .first-slider{
     background-color: #101010 ;
